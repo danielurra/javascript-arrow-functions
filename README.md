@@ -1,4 +1,4 @@
-# javascript-arrow-functions
+# Javascript Arrow-functions
 Arrow functions are usually called anonymous functions because of their lack of a name.
 ![arrow-functions-odd_even-example](https://github.com/danielurra/javascript-arrow-functions/assets/51704179/965e4d09-0616-40db-ac13-ceb1cd82c8ef)<br>
 ## Grab the code
