@@ -20,3 +20,5 @@ const ArrayEvenSquare = ArrayEven.map( even => even**2 );
 console.log(ArrayEvenSquare);
 // Output:[ 4, 16, 36, 64, 100 ]
 ```
+## Another example
+![javascript-arrow-function](https://github.com/danielurra/javascript-arrow-functions/assets/51704179/555c5fff-bf02-4997-adc2-a622af021696)
