@@ -22,5 +22,5 @@ console.log(ArrayEvenSquare);
 ```
 ## Another example
 ![javascript-arrow-function](https://github.com/danielurra/javascript-arrow-functions/assets/51704179/555c5fff-bf02-4997-adc2-a622af021696)
-## Example passing parameters
+## Arrow function example passing parameters
 ![javascript-arrow-function-02](https://github.com/danielurra/javascript-arrow-functions/assets/51704179/606d7f2d-079f-40dd-bda4-abd8a53ea6db)
